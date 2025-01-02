@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate coder, tech enthusiast, and educator with a flair for storytelling in code. I specialize in Python, web development, and communication training, aiming to make coding accessible and fun for everyone.
 
-![Banner](https://your-banner-image-link.com) <!-- Add your own banner URL here -->
+![Banner]([)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif) <!-- Add your own banner URL here -->
 
 ## 🚀 About Me
 
