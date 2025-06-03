@@ -10,7 +10,10 @@ Welcome to my GitHub! I'm a passionate coder, tech enthusiast, and educator with
 - 💻 Senior Coding Trainer at **98th Percentile**
 - 📈 Former Branding Head at **OLL.co** - Grew social media presence to 10k+ in 4 months
 - 🌟 Teaching: Python, Web Development, AWS Essentials
-- 💬 [Let's connect on LinkedIn!](https://linkedin.com/in/your-link)
+- 💬 <a href="https://www.linkedin.com/in/prince-thakur-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="Connect on LinkedIn">
+</a>
+
 
 ## 🔧 Technologies & Tools
 
