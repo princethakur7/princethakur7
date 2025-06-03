@@ -56,9 +56,9 @@ Welcome to my GitHub! I'm a passionate coder, tech enthusiast, and educator with
 Feel free to reach out and connect – I love collaborating on innovative projects and exploring new tech!
 
 ### 📫 Reach Me
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/prince-thakur-/)
+- [Email](mailto:p777thakur@gmail.com)
+
 
 ---
 
